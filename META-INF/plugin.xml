@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>color.scheme.Darcula Red</id>
+  <name>Darcula Red Color Scheme</name>
+  <version>0.2</version>
+  <vendor email="alfredo.mapelli@gmail.com">Alfredo Mapelli</vendor>
+
+  <description><![CDATA[
+      Based on Darcula, now with Red
+	  
+	  <br/>
+      <a href="https://github.com/mapelli0/darcula_red/issues">Report an issue</a>  |  <a href="https://github.com/mapelli0/darcula_red">On GitHub</a>
+      <br/><br/><br/>
+	  
+    ]]></description>
+
+  <change-notes><![CDATA[
+      <b>0.2</b>
+	  <ul>
+		<li>
+			Color Theme plugin creation
+		</li>
+	  </ul>
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="142.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="/colors/Darcula Red"/>
+  </extensions>
+</idea-plugin>

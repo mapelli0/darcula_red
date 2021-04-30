@@ -5,7 +5,11 @@
   <vendor email="alfredo.mapelli@gmail.com">Alfredo Mapelli</vendor>
 
   <description><![CDATA[
-      Based on Darcula, now with Red
+  
+		This is a scheme plugin that is based on Darcula https://plugins.jetbrains.com/plugin/12692-darcula-darker-theme 
+		But in red now.
+      
+		it is still a work in progress and any help would be appreciated.
 	  
 	  <br/>
       <a href="https://github.com/mapelli0/darcula_red/issues">Report an issue</a>  |  <a href="https://github.com/mapelli0/darcula_red">On GitHub</a>

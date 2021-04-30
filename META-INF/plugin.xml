@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>color.scheme.Darcula Red</id>
   <name>Darcula Red Color Scheme</name>
-  <version>0.2</version>
+  <version>0.3</version>
   <vendor email="alfredo.mapelli@gmail.com">Alfredo Mapelli</vendor>
 
   <description><![CDATA[
